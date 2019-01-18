@@ -1,0 +1,29 @@
+indexes:
+
+- kind: tank
+  properties:
+  - name: currentTemp
+  - name: currentFeature
+  
+- kind: feature
+  properties:
+  - name: feature
+  - name: time
+  - name: tankKey
+  
+- kind: temp
+  properties:
+  - name: temp
+  - name: time
+  - name: tankKey
+  
+- kind: reading
+  properties:
+  - name: sensor3
+  - name: time
+  - name: tankKey
+  
+  
+
+   
+

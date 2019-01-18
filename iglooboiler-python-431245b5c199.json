@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iglooboiler-python",
+  "private_key_id": "431245b5c199741317846659d241c89b2b2df010",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDA3pWlw4qwyY0i\ndTx1tO14WPusZ2LllY+xLf3TkaMDVmpUBwas2WzNkkMiIkznEPT3/exqi/8OX+nX\nkXmbLVzE/u6eC9u+7GatsbOZZUHouhmbAhxnHTRrwlE9gX7kbfNR1kLHV98sDKKp\nsicPB6tfKzJEdLGLwxpCuO952zaCldHzFrohByWKwsHUbcIKWb/fablI3B7WgzdC\n8ku0FMX+Hx+MI+qSD5q+qe4YfXP9bAPr7WMUEAAwpJ7qoE0QXMAeI+Sy3HH+fhfB\ndqpvlTlB44C+9YheuceVzcmjPi+EE4dN83qNxSDMrMXDVyQq9KbWfKM4hvUS8D9g\nV4xJlbg5AgMBAAECggEAAe0vQDvA6sVmnx+d6hyTqyozYFxbgujQqb/Ie2im4NGI\nCB0WWltlIHQLrt96FmxHUCNVjVZm5q87VBuIRA4q0S5tNn+ukxyEJYvC/B8kboVO\nXGuj2j1S0Nk868D7gh9diPWbjudwK53YMZr9lCM62V1ieAfU3q0lGeHERZq0k48U\nWdSVkIFM6oEHdrpReA0wN9OoEuw8F5oEiJFHOS8aiFYGX7pofx4Gji76LIZFL9+L\ni0evDmt1UABmNP961RmWCm+Q+EP84zIUcsDs6+uSVvEMqRTfIG/4IxEEuIvBJ3ba\nmdGymokr8IYDLrG3w1TTuafMl8dHKOAaayarYjobQQKBgQDt+3TMOcWyaVQVF0Cf\nltO8bEzOPdGO9b0+q2VjP2+8fzzkBb+guCnVeqKKBBEAhuz1SbJJU/py4Fa2LG4+\nBbDJFIrQEoHygDHtVerRU8LjD1a/ZioJ4wAvtT545wbPWj17AVt4pH8g+6vlQEZH\n709hg2913M2LG8M5ZHMwu5vweQKBgQDPeMH9HrFfp2SeEkTdFqIdDvOzI468U+YI\nya4h6GsTMrOdJJ0AqdZBisxx6bjFucQpPtxIZJ5VW8IFuMtTAbWKNyn1KaImQlS2\nfGlRLToDe3pJVj2N6EGngXh48NLw0f2FHnpqItj//AoJDYqYdkUYjfIlQyNFDD1I\nwaNUaMeVwQKBgQCmrcCfLTNvAuB2KSQE4nGH/d5JcPiuBSU3mHnZalvLDN7L4c7W\nNUZvk4X13mU+FkIuhiBNxXibLs7spu/Llta77xxOIThMbUcKsGtXky/jMiISye5V\noFzIDUwlB8I4Rj7bQRccxzGXG03IshzHUzAo3xKY3T5E2PwB3X3kOvI8GQKBgEZi\nKCVPuUrDBe5eMkBywjJrdR9Lq8uWBs7qZImaSGDt7WMdHaow87+ub6chbA6f870u\nVxq0D8bTZyH7y/Zv+P9XsYM7SYgDLqvtzui8GBdAV37zo9Q1e7hwwsb8pAMQqhnz\n+gFxqv5Eqb7ieic40D4BQamEej2dZlj9YARtu2/BAoGBAK9xQYDpFeNfekrTRfNu\n73nGicC80kzcCKkKHpWvLbYhHb52WzCpAlo/g3v0e/0V38F5gAdQB56rBDT2xoOf\ngbCISt6hnDAQCjafo2dbmVefNIHupvq7m9VQyrkaWQa061vtwUucXGMyqTypKldH\nRaDeQXCHPcm9J6AOIwuWqDH/\n-----END PRIVATE KEY-----\n",
+  "client_email": "iglooboiler-python@appspot.gserviceaccount.com",
+  "client_id": "106400349912309687768",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iglooboiler-python%40appspot.gserviceaccount.com"
+}
